@@ -1,0 +1,9 @@
+{
+  "name": "nodecasts-episode-5",
+  "version": "0.0.0",
+  "description": "Source code for episode 5 of NodeCasts.net",
+  "dependencies": {
+    "async": "~0.1.22"
+  },
+  "private": true
+}
